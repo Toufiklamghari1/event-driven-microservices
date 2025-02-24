@@ -33,14 +33,14 @@ This project demonstrates an event-driven microservices architecture using Apach
 ## Getting Started
 
 ### Prerequisites
-- Java 17
-- Spring Boot
-- Apache Kafka
+    - Java 17
+    - Spring Boot
+    - Apache Kafka
 ### How to Run
 #### Clone the repository:
       git clone https://github.com/Toufiklamghari1/event-driven-microservices.git
 #### DOWNLOAD AND INSTALL KAFKA
-[https://dlcdn.apache.org/kafka/3.2.0/kafka_2.13-3.2.0.tgz](https://kafka.apache.org/quickstart)
+    [https://dlcdn.apache.org/kafka/3.2.0/kafka_2.13-3.2.0.tgz](https://kafka.apache.org/quickstart)
 
 #### Start the ZooKeeper service
     C:\Users\RAMESH\Downloads\kafka>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
@@ -120,4 +120,4 @@ This project demonstrates an event-driven microservices architecture using Apach
       ├── README.md
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+    This project is licensed under the MIT License - see the LICENSE file for details.
